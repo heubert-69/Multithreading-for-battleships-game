@@ -1,0 +1,18 @@
+#ifndef FUNC_HPP
+#define FUNC_HPP
+
+#include<iostream>
+#include<string>
+
+class BattleShip
+	public:
+		int Board(int size);
+)
+
+
+
+
+
+};
+
+
